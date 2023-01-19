@@ -42,6 +42,13 @@ BruteX is A bruteForce attacking tool
 ```
 apt update && apt upgrade && apt install git -y && git clone https://github.com/Pandoragiann/BruteX.git/ && cd BruteX && chmod +x * && bash setup.sh && python brutex.py
 ```
-Note :-
+## Note :
++ Use this tool only for educational prupose.
 + Run ```tor``` in another session when you're work with Instagram hack
 + Simply type ``` tor ``` and enter for run it
+
+## Credit:
+      If You Like This Tool Kindly Give Me a star. Thanks...
+
+## Author:
++ https://www.twitter.com/pandoragiann
