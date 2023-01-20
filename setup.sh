@@ -1,4 +1,4 @@
-created by Pandoragiann; give me credit if you're using any part of this script.
+#created by Pandoragiann; give me credit if you're using any part of this script.
 #bin/bash
 
 clear
