@@ -1,4 +1,4 @@
-# /bin/python !
+Ì# /bin/python !
 # https://github.com/Pandoragiann/
 
 from __future__ import absolute_import
@@ -301,7 +301,7 @@ while True:
             
 
 
-			elif fol == '2' or fol == '03':
+			elif fol == '2' or fol == '02':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
 				time.sleep(1)
