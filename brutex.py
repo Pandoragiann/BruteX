@@ -1,4 +1,4 @@
-Ì# /bin/python !
+# /bin/python !
 # https://github.com/Pandoragiann/
 
 from __future__ import absolute_import
