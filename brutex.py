@@ -295,33 +295,21 @@ while True:
 			fol = input(soc)
 			if fol == '1' or fol == '01':
 				print()
-				print("\033[1;91m[*] \033[1;97mOpening my Instagram profile in your device \n")
+				print("\033[1;91m[*] \033[1;97mOpening my twitter profile in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://instagram.com/0hacker_x0")
+				os.system("xdg-open https://twitter.com/Pandoragiann")
             
-			elif fol == '2' or fol == '02':
-				print()
-				print("\033[1;91m[*] \033[1;97mOpening my Facebook page in your device \n")
-				time.sleep(1)
-				os.system("xdg-open https://facebook.com/hackerxmr")
 
-			elif fol == '3' or fol == '03':
+
+			elif fol == '2' or fol == '03':
 				print()
 				print("\033[1;91m[*] \033[1;97mOpening my Github profile in your device \n")
 				time.sleep(1)
-				os.system("xdg-open https://github.com/MrHacker-X")
+				os.system("xdg-open https://github.com/Pandoragiann")
 
-			elif fol == '4' or fol == '04':
-				print()
-				print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
-				time.sleep(1)
-				os.system("xdg-open https://youtube.com/@Technolex")
+
             
-			elif fol == '5' or fol == '05':
-				print()
-				print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
-				time.sleep(1)
-				os.system("xdg-open https://t.me/hackwithalex")
+
 
 			elif fol == '9' or fol == '99':
 				print()
